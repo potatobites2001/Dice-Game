@@ -28,9 +28,9 @@ HTML, CSS, JavaScript
 
 
 📁 Files Overview:
-index.html – Structure of the game
-style.css – Game styling
-script.js – Dice logic and winner selection
+dicee.html – Structure of the game
+styles.css – Game styling
+index.js – Dice logic and winner selection
 
 
 

@@ -4,7 +4,10 @@ A lightweight web game that demonstrates randomness and basic DOM manipulation u
 Every page refresh rolls two dice and displays the result in real time.
 
 
-How It Works
+
+
+
+How It Works: 
 -Two players, one dice each
 -Dice values are generated randomly
 -The game compares both values and declares:
@@ -14,20 +17,29 @@ Draw
 Just refresh the page to play again 🔄
 
 
-🧰 Tech Stack
+
+
+
+🧰 Tech Stack:
 HTML, CSS, JavaScript
 
 
-📁 Files Overview
+
+
+
+📁 Files Overview:
 index.html – Structure of the game
 style.css – Game styling
 script.js – Dice logic and winner selection
 
 
-🚀 Run Locally
+
+🚀 Run Locally:
 1.Download or clone the repository
 2.Open index.html in any modern browser
 3.Refresh to roll the dice 🎲
+
+
 
 
 Project Structure:
